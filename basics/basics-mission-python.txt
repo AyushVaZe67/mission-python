@@ -1,47 +1,47 @@
-🧠 Python Basics – Top 50 Problems (Structured + Descriptions)
+🧠 Python Basics – Top 50 Problems (Structured + Numbered Files)
 
 ------------------------------------------------------------
-🔹 Level 1: Very Basic (1–10)
+🔹 Level 1: Very Basic (01–10)
 ------------------------------------------------------------
 
-1. Print Hello World
-   File: hello_world.py
-   Description: Print a simple message to the console. This is the first program in most languages.
+01. Print Hello World
+    File: 01_hello_world.py
+    Description: Print a simple message to the console. This is the first program in most languages.
 
-2. Take input and print
-   File: input_output.py
-   Description: Take user input and display it back. Helps understand input/output basics.
+02. Take input and print
+    File: 02_input_output.py
+    Description: Take user input and display it back. Helps understand input/output basics.
 
-3. Add two numbers
-   File: add_two_numbers.py
-   Description: Take two numbers and print their sum.
+03. Add two numbers
+    File: 03_add_two_numbers.py
+    Description: Take two numbers and print their sum.
 
-4. Square of a number
-   File: square_number.py
-   Description: Calculate and print the square of a given number.
+04. Square of a number
+    File: 04_square_number.py
+    Description: Calculate and print the square of a given number.
 
-5. Check even or odd
-   File: even_odd.py
-   Description: Determine whether a number is even or odd using modulo.
+05. Check even or odd
+    File: 05_even_odd.py
+    Description: Determine whether a number is even or odd using modulo.
 
-6. Swap two variables
-   File: swap_numbers.py
-   Description: Swap values of two variables without using a third variable.
+06. Swap two variables
+    File: 06_swap_numbers.py
+    Description: Swap values of two variables without using a third variable.
 
-7. Largest of 3 numbers
-   File: largest_of_three.py
-   Description: Find the maximum among three given numbers.
+07. Largest of 3 numbers
+    File: 07_largest_of_three.py
+    Description: Find the maximum among three given numbers.
 
-8. Positive, negative, zero
-   File: number_sign_check.py
-   Description: Check if a number is positive, negative, or zero.
+08. Positive, negative, zero
+    File: 08_number_sign_check.py
+    Description: Check if a number is positive, negative, or zero.
 
-9. Celsius to Fahrenheit
-   File: celsius_to_fahrenheit.py
-   Description: Convert temperature from Celsius to Fahrenheit.
+09. Celsius to Fahrenheit
+    File: 09_celsius_to_fahrenheit.py
+    Description: Convert temperature from Celsius to Fahrenheit.
 
 10. Simple interest
-    File: simple_interest.py
+    File: 10_simple_interest.py
     Description: Calculate simple interest using formula: (P × R × T) / 100.
 
 
@@ -50,43 +50,43 @@
 ------------------------------------------------------------
 
 11. Print 1 to N
-    File: print_1_to_n.py
+    File: 11_print_1_to_n.py
     Description: Print numbers from 1 to N using a loop.
 
 12. Sum of first N numbers
-    File: sum_first_n.py
+    File: 12_sum_first_n.py
     Description: Calculate the sum of numbers from 1 to N.
 
 13. Multiplication table
-    File: multiplication_table.py
+    File: 13_multiplication_table.py
     Description: Print multiplication table for a given number.
 
 14. Count digits
-    File: count_digits.py
+    File: 14_count_digits.py
     Description: Count how many digits are present in a number.
 
 15. Reverse number
-    File: reverse_number.py
+    File: 15_reverse_number.py
     Description: Reverse the digits of a number (e.g., 123 → 321).
 
 16. Palindrome number
-    File: palindrome_number.py
+    File: 16_palindrome_number.py
     Description: Check if a number reads the same forward and backward.
 
 17. Factorial
-    File: factorial.py
+    File: 17_factorial.py
     Description: Calculate factorial of a number using loop or recursion.
 
 18. Even numbers till N
-    File: even_numbers_till_n.py
+    File: 18_even_numbers_till_n.py
     Description: Print all even numbers from 1 to N.
 
 19. Sum of digits
-    File: sum_of_digits.py
+    File: 19_sum_of_digits.py
     Description: Add all digits of a number (e.g., 123 → 6).
 
 20. Armstrong number
-    File: armstrong_number.py
+    File: 20_armstrong_number.py
     Description: Check if number equals sum of its digits raised to power of digits.
 
 
@@ -95,43 +95,43 @@
 ------------------------------------------------------------
 
 21. Reverse string
-    File: reverse_string.py
+    File: 21_reverse_string.py
     Description: Reverse a given string.
 
 22. Palindrome string
-    File: palindrome_string.py
+    File: 22_palindrome_string.py
     Description: Check if a string is same forward and backward.
 
 23. Count vowels & consonants
-    File: vowel_consonant_count.py
+    File: 23_vowel_consonant_count.py
     Description: Count vowels and consonants in a string.
 
 24. Remove spaces
-    File: remove_spaces.py
+    File: 24_remove_spaces.py
     Description: Remove all spaces from a string.
 
 25. Uppercase/lowercase
-    File: string_case_convert.py
+    File: 25_string_case_convert.py
     Description: Convert string to upper or lower case.
 
 26. Character frequency
-    File: char_frequency.py
+    File: 26_char_frequency.py
     Description: Count how many times each character appears.
 
 27. Longest word
-    File: longest_word.py
+    File: 27_longest_word.py
     Description: Find the longest word in a sentence.
 
 28. Replace spaces with hyphens
-    File: replace_spaces.py
+    File: 28_replace_spaces.py
     Description: Replace all spaces with "-".
 
 29. Check anagram
-    File: anagram_check.py
+    File: 29_anagram_check.py
     Description: Check if two strings have same characters in different order.
 
 30. Remove duplicate characters
-    File: remove_duplicates_string.py
+    File: 30_remove_duplicates_string.py
     Description: Remove repeating characters from a string.
 
 
@@ -140,43 +140,43 @@
 ------------------------------------------------------------
 
 31. Largest element
-    File: largest_in_list.py
+    File: 31_largest_in_list.py
     Description: Find the maximum value in a list.
 
 32. Smallest element
-    File: smallest_in_list.py
+    File: 32_smallest_in_list.py
     Description: Find the minimum value in a list.
 
 33. Second largest
-    File: second_largest.py
+    File: 33_second_largest.py
     Description: Find the second highest number in a list.
 
 34. Reverse list
-    File: reverse_list.py
+    File: 34_reverse_list.py
     Description: Reverse elements of a list.
 
 35. Remove duplicates
-    File: remove_duplicates_list.py
+    File: 35_remove_duplicates_list.py
     Description: Remove duplicate elements from a list.
 
 36. Count occurrences
-    File: count_occurrences.py
+    File: 36_count_occurrences.py
     Description: Count how many times an element appears in a list.
 
 37. Merge lists
-    File: merge_lists.py
+    File: 37_merge_lists.py
     Description: Combine two lists into one.
 
 38. Common elements
-    File: common_elements.py
+    File: 38_common_elements.py
     Description: Find elements that exist in both lists.
 
 39. Sort without sort()
-    File: manual_sort.py
+    File: 39_manual_sort.py
     Description: Sort list manually (e.g., using bubble sort logic).
 
 40. Sum of list
-    File: sum_list.py
+    File: 40_sum_list.py
     Description: Calculate sum of all elements in a list.
 
 
@@ -185,41 +185,41 @@
 ------------------------------------------------------------
 
 41. Fibonacci series
-    File: fibonacci.py
+    File: 41_fibonacci.py
     Description: Generate Fibonacci sequence up to N terms.
 
 42. Prime numbers till N
-    File: primes_till_n.py
+    File: 42_primes_till_n.py
     Description: Print all prime numbers up to N.
 
 43. Check prime
-    File: prime_check.py
+    File: 43_prime_check.py
     Description: Check if a number is prime.
 
 44. GCD
-    File: gcd.py
+    File: 44_gcd.py
     Description: Find greatest common divisor of two numbers.
 
 45. LCM
-    File: lcm.py
+    File: 45_lcm.py
     Description: Find least common multiple of two numbers.
 
 46. Pattern printing
-    File: pattern_print.py
+    File: 46_pattern_print.py
     Description: Print star patterns (triangle, pyramid, etc.).
 
 47. Count words
-    File: word_count.py
+    File: 47_word_count.py
     Description: Count number of words in a sentence.
 
 48. Missing number
-    File: missing_number.py
+    File: 48_missing_number.py
     Description: Find missing number in a sequence (e.g., 1 to N).
 
 49. String rotation check
-    File: string_rotation.py
+    File: 49_string_rotation.py
     Description: Check if one string is rotation of another.
 
 50. Max occurring character
-    File: max_char_frequency.py
+    File: 50_max_char_frequency.py
     Description: Find the character that appears most frequently.
