@@ -1,0 +1,106 @@
+🧠 📂 Python Basics – Top 50 Problems (Structured + Descriptions)
+🔹 Level 1: Very Basic (1–10)
+Print Hello World → hello_world.py
+Print a simple message to the console. This is the first program in most languages.
+Take input and print → input_output.py
+Take user input and display it back. Helps understand input/output basics.
+Add two numbers → add_two_numbers.py
+Take two numbers and print their sum.
+Square of a number → square_number.py
+Calculate and print the square of a given number.
+Check even or odd → even_odd.py
+Determine whether a number is even or odd using modulo.
+Swap two variables → swap_numbers.py
+Swap values of two variables without using a third variable.
+Largest of 3 numbers → largest_of_three.py
+Find the maximum among three given numbers.
+Positive, negative, zero → number_sign_check.py
+Check if a number is positive, negative, or zero.
+Celsius to Fahrenheit → celsius_to_fahrenheit.py
+Convert temperature from Celsius to Fahrenheit.
+Simple interest → simple_interest.py
+Calculate simple interest using formula: (P × R × T) / 100.
+🔹 Level 2: Conditions + Loops (11–20)
+Print 1 to N → print_1_to_n.py
+Print numbers from 1 to N using a loop.
+Sum of first N numbers → sum_first_n.py
+Calculate the sum of numbers from 1 to N.
+Multiplication table → multiplication_table.py
+Print multiplication table for a given number.
+Count digits → count_digits.py
+Count how many digits are present in a number.
+Reverse number → reverse_number.py
+Reverse the digits of a number (e.g., 123 → 321).
+Palindrome number → palindrome_number.py
+Check if a number reads the same forward and backward.
+Factorial → factorial.py
+Calculate factorial of a number using loop or recursion.
+Even numbers till N → even_numbers_till_n.py
+Print all even numbers from 1 to N.
+Sum of digits → sum_of_digits.py
+Add all digits of a number (e.g., 123 → 6).
+Armstrong number → armstrong_number.py
+Check if number equals sum of its digits raised to power of digits.
+🔹 Level 3: Strings (21–30)
+Reverse string → reverse_string.py
+Reverse a given string.
+Palindrome string → palindrome_string.py
+Check if a string is same forward and backward.
+Count vowels & consonants → vowel_consonant_count.py
+Count vowels and consonants in a string.
+Remove spaces → remove_spaces.py
+Remove all spaces from a string.
+Uppercase/lowercase → string_case_convert.py
+Convert string to upper or lower case.
+Character frequency → char_frequency.py
+Count how many times each character appears.
+Longest word → longest_word.py
+Find the longest word in a sentence.
+Replace spaces with hyphens → replace_spaces.py
+Replace all spaces with “-”.
+Check anagram → anagram_check.py
+Check if two strings have same characters in different order.
+Remove duplicate characters → remove_duplicates_string.py
+Remove repeating characters from a string.
+🔹 Level 4: Lists (31–40)
+Largest element → largest_in_list.py
+Find the maximum value in a list.
+Smallest element → smallest_in_list.py
+Find the minimum value in a list.
+Second largest → second_largest.py
+Find the second highest number in a list.
+Reverse list → reverse_list.py
+Reverse elements of a list.
+Remove duplicates → remove_duplicates_list.py
+Remove duplicate elements from a list.
+Count occurrences → count_occurrences.py
+Count how many times an element appears in a list.
+Merge lists → merge_lists.py
+Combine two lists into one.
+Common elements → common_elements.py
+Find elements that exist in both lists.
+Sort without sort() → manual_sort.py
+Sort list manually (e.g., using bubble sort logic).
+Sum of list → sum_list.py
+Calculate sum of all elements in a list.
+🔹 Level 5: Mixed Logic (41–50) 🔥
+Fibonacci series → fibonacci.py
+Generate Fibonacci sequence up to N terms.
+Prime numbers till N → primes_till_n.py
+Print all prime numbers up to N.
+Check prime → prime_check.py
+Check if a number is prime.
+GCD → gcd.py
+Find greatest common divisor of two numbers.
+LCM → lcm.py
+Find least common multiple of two numbers.
+Pattern printing → pattern_print.py
+Print star patterns (triangle, pyramid, etc.).
+Count words → word_count.py
+Count number of words in a sentence.
+Missing number → missing_number.py
+Find missing number in a sequence (e.g., 1 to N).
+String rotation check → string_rotation.py
+Check if one string is rotation of another.
+Max occurring character → max_char_frequency.py
+Find the character that appears most frequently.
