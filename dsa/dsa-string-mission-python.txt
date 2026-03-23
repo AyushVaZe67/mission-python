@@ -1,0 +1,217 @@
+🧠 Python String DSA – Top 50 Interview Questions (Structured + Numbered Files)
+
+------------------------------------------------------------
+🔹 Level 1: Must-Know Basics (01–10)
+------------------------------------------------------------
+
+01. Reverse string
+    File: 01_reverse_string.py
+    Description: Reverse a string using slicing or loop. Very common warm-up question.
+
+02. Valid palindrome
+    File: 02_valid_palindrome.py
+    Description: Check if string is palindrome ignoring spaces and cases.
+
+03. First non-repeating character
+    File: 03_first_unique_char.py
+    Description: Find first character that appears only once.
+
+04. Character frequency
+    File: 04_char_frequency.py
+    Description: Count frequency of each character using hashmap.
+
+05. Check anagram
+    File: 05_anagram_check.py
+    Description: Check if two strings are anagrams (sorting or hashmap).
+
+06. String length without len()
+    File: 06_string_length.py
+    Description: Calculate string length manually.
+
+07. Remove duplicates
+    File: 07_remove_duplicates.py
+    Description: Remove duplicate characters from string.
+
+08. Check substring
+    File: 08_substring_check.py
+    Description: Check if one string exists inside another.
+
+09. Reverse words in sentence
+    File: 09_reverse_words.py
+    Description: Reverse word order in a sentence.
+
+10. Count vowels and consonants
+    File: 10_vowel_consonant_count.py
+    Description: Count vowels and consonants in string.
+
+------------------------------------------------------------
+🔹 Level 2: Coding Round Favorites (11–20)
+------------------------------------------------------------
+
+11. Longest substring without repeating characters ⭐
+    File: 11_longest_unique_substring.py
+    Description: Find longest substring with unique characters (sliding window).
+
+12. Longest palindromic substring ⭐
+    File: 12_longest_palindrome.py
+    Description: Find longest palindrome inside string.
+
+13. Group anagrams ⭐
+    File: 13_group_anagrams.py
+    Description: Group words that are anagrams.
+
+14. String compression
+    File: 14_string_compression.py
+    Description: Compress repeated characters (aaabb → a3b2).
+
+15. String to integer (atoi) ⭐
+    File: 15_string_to_integer.py
+    Description: Convert string to integer handling edge cases.
+
+16. Check rotation of string
+    File: 16_string_rotation.py
+    Description: Check if one string is rotation of another.
+
+17. Count substrings
+    File: 17_count_substrings.py
+    Description: Count total substrings in string.
+
+18. Longest common prefix ⭐
+    File: 18_longest_common_prefix.py
+    Description: Find common prefix among strings.
+
+19. Remove all adjacent duplicates
+    File: 19_remove_adjacent_duplicates.py
+    Description: Remove consecutive duplicate characters.
+
+20. First repeating character
+    File: 20_first_repeating_char.py
+    Description: Find first character that repeats.
+
+------------------------------------------------------------
+🔹 Level 3: Medium Interview Level (21–35)
+------------------------------------------------------------
+
+21. Minimum window substring ⭐
+    File: 21_min_window_substring.py
+    Description: Find smallest substring containing all characters.
+
+22. Valid parentheses ⭐
+    File: 22_valid_parentheses.py
+    Description: Check if parentheses are balanced using stack.
+
+23. Count palindromic substrings ⭐
+    File: 23_count_palindromes.py
+    Description: Count all palindrome substrings.
+
+24. Isomorphic strings
+    File: 24_isomorphic_strings.py
+    Description: Check if two strings follow same mapping.
+
+25. Longest repeating substring
+    File: 25_longest_repeating_substring.py
+    Description: Find longest repeating substring.
+
+26. Remove invalid parentheses
+    File: 26_remove_invalid_parentheses.py
+    Description: Remove minimum invalid parentheses.
+
+27. Word break problem ⭐
+    File: 27_word_break.py
+    Description: Check if string can be split into dictionary words.
+
+28. Decode string ⭐
+    File: 28_decode_string.py
+    Description: Decode nested encoded string (e.g., 3[a2[c]]).
+
+29. Check subsequence
+    File: 29_subsequence_check.py
+    Description: Check if one string is subsequence of another.
+
+30. Count and say sequence
+    File: 30_count_and_say.py
+    Description: Generate sequence based on previous term.
+
+31. Smallest window containing pattern
+    File: 31_smallest_window.py
+    Description: Find smallest substring containing all pattern characters.
+
+32. Remove duplicates from sorted string
+    File: 32_remove_sorted_duplicates.py
+    Description: Remove duplicates from sorted string.
+
+33. Rearrange string without adjacent duplicates
+    File: 33_rearrange_string.py
+    Description: Rearrange so no two adjacent characters are same.
+
+34. Convert Roman to Integer ⭐
+    File: 34_roman_to_integer.py
+    Description: Convert Roman numeral to integer.
+
+35. Integer to Roman ⭐
+    File: 35_integer_to_roman.py
+    Description: Convert integer to Roman numeral.
+
+------------------------------------------------------------
+🔹 Level 4: Advanced / FAANG Level (36–50)
+------------------------------------------------------------
+
+36. KMP string matching ⭐
+    File: 36_kmp_algorithm.py
+    Description: Efficient pattern matching algorithm.
+
+37. Rabin-Karp algorithm
+    File: 37_rabin_karp.py
+    Description: String matching using hashing.
+
+38. Z algorithm
+    File: 38_z_algorithm.py
+    Description: Pattern matching using Z array.
+
+39. Edit distance ⭐
+    File: 39_edit_distance.py
+    Description: Minimum operations to convert one string to another.
+
+40. Longest common subsequence ⭐
+    File: 40_lcs.py
+    Description: Find longest subsequence common in two strings.
+
+41. Longest common substring
+    File: 41_longest_common_substring.py
+    Description: Find longest substring common in two strings.
+
+42. Palindrome partitioning ⭐
+    File: 42_palindrome_partitioning.py
+    Description: Partition string into palindromes.
+
+43. Regular expression matching ⭐
+    File: 43_regex_matching.py
+    Description: Pattern matching with '.' and '*'.
+
+44. Interleaving string
+    File: 44_interleaving_string.py
+    Description: Check if string is interleaving of two strings.
+
+45. Distinct subsequences
+    File: 45_distinct_subsequences.py
+    Description: Count distinct subsequences.
+
+46. Shortest common supersequence
+    File: 46_scs.py
+    Description: Combine strings with minimum length.
+
+47. Longest valid parentheses ⭐
+    File: 47_longest_valid_parentheses.py
+    Description: Find longest valid parentheses substring.
+
+48. Scramble string
+    File: 48_scramble_string.py
+    Description: Check if string is scrambled version of another.
+
+49. Wildcard matching ⭐
+    File: 49_wildcard_matching.py
+    Description: Pattern matching with '?' and '*'.
+
+50. Text justification
+    File: 50_text_justification.py
+    Description: Format text with proper spacing.
