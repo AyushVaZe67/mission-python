@@ -106,10 +106,6 @@
     File: 23_vowel_consonant_count.py
     Description: Count vowels and consonants in a string.
 
-24. Remove spaces
-    File: 24_remove_spaces.py
-    Description: Remove all spaces from a string.
-
 25. Uppercase/lowercase
     File: 25_string_case_convert.py
     Description: Convert string to upper or lower case.
